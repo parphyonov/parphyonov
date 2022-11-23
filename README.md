@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parphyonov
-- 👀 I’m interested in becoming a full-time full-stack developer in Node.js
-- 🌱 I’m currently learning at the Odin Project.
+- 👀 I’m interested in becoming a Golang developer
+- 🌱 I’m currently learning using online sources
 - 💞️ I’m not currently looking to collaborate on anything as I do not yet feel confident about my coding capabilities.
 - 📫 How to reach me: alexei.parphyonov@gmail.com
 
